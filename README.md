@@ -11,11 +11,18 @@ PEN Number: `49732` (`Parahyangan Catholic University`)
 
 Full PEN Definition: [IANA's PEN Registry](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers).
 
-**Contact Person**
+**Contact Person**:
 
-Lab Admin, Faculty of Information Technology and Sciences
+```
+Lab Administrator
+Faculty of Information Technology and Sciences
 Parahyangan Catholic University
 Ph. (022) 2032655, 2042004 ext. 190019
+```
+
+## Links:
+
+- OID Info: http://oid-info.com/get/1.3.6.1.4.1.49732
 
 ## FAQ:
 - What is PEN?
